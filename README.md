@@ -26,5 +26,5 @@ wc.exe
 
 #### 运行结果
 
-![1](C:\Users\lenovo\Desktop\1.jpg)
+![1](https://github.com/123rushB/-/blob/main/1.jpg)
 
